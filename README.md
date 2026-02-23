@@ -1,2 +1,17 @@
-# hi
-hi
+
+# EXP 2 : COMPUTATION OF DFT USING DIRECT DFT AND FFT
+
+# AIM: 
+
+# To Obtain DFT and FFT of a given sequence in SCILAB. 
+
+# APPARATUS REQUIRED: 
+PC installed with SCILAB. 
+
+# PROGRAM: 
+// DISCRETE FOURIER TRANSFORM 
+
+# CALCULATIONS: 
+
+# OUTPUT IMAGES: 
+# RESULT: 

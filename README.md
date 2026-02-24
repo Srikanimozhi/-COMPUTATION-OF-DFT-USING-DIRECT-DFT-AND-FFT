@@ -102,4 +102,8 @@ title('Inverse FFT OF X(K)');
 # CALCULATIONS: 
 
 # SAMPLE OUTPUT: 
+//DFT
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/4c23d5fe-5b11-4da1-8745-5caa870064d6" />
+//FFT
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/24f9115f-0b0f-454b-aabc-0213c00694dc" />
 # RESULT: 

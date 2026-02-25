@@ -100,6 +100,9 @@ title('Inverse FFT OF X(K)');
 ```
 
 # CALCULATIONS: 
+<img width="820" height="1600" alt="image" src="https://github.com/user-attachments/assets/79d92fb0-b168-4941-83d4-149a8f1801b9" />
+<img width="818" height="1600" alt="image" src="https://github.com/user-attachments/assets/973905a7-9bb7-4c7f-83ba-6207dfcbf45c" />
+<img width="1600" height="703" alt="image" src="https://github.com/user-attachments/assets/fb7cc8ad-3e0a-4981-bc5c-be29d29271a1" />
 
 # SAMPLE OUTPUT: 
 //DFT
@@ -107,3 +110,5 @@ title('Inverse FFT OF X(K)');
 //FFT
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/24f9115f-0b0f-454b-aabc-0213c00694dc" />
 # RESULT: 
+Thus,DFT and FFT of a given sequence is verified using SCILAB. 
+
